@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/database-connection-manager/static/css/main.18d25991.css",
-    "main.js": "/database-connection-manager/static/js/main.f9e024e6.js",
+    "main.js": "/database-connection-manager/static/js/main.db967c50.js",
     "index.html": "/database-connection-manager/index.html",
     "main.18d25991.css.map": "/database-connection-manager/static/css/main.18d25991.css.map",
-    "main.f9e024e6.js.map": "/database-connection-manager/static/js/main.f9e024e6.js.map"
+    "main.db967c50.js.map": "/database-connection-manager/static/js/main.db967c50.js.map"
   },
   "entrypoints": [
     "static/css/main.18d25991.css",
-    "static/js/main.f9e024e6.js"
+    "static/js/main.db967c50.js"
   ]
 }
